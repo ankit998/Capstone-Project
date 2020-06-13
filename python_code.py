@@ -1,3 +1,3 @@
-import pandas
-import numpy
-print("hello Capstone project course")
+import pandasas pd
+import numpy as np
+print("Hello Capstone Project Course!")
