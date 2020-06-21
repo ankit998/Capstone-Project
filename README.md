@@ -9,7 +9,7 @@ The target audience of this report is any one that is interested in opening a sh
 
 Data Section
 
-The data comes from Dingqi Yang from the following link https://sites.google.com/site/yangdingqi/home/foursquare-dataset. It contains 227,428 check-ins in New York city. The data contains a file in tsv format. Each file contains 8 columns, which are:
+The data comes  from the following link https://sites.google.com/site/yangdingqi/home/foursquare-dataset. It contains 227,428 check-ins in New York city. The data contains a file in tsv format. Each file contains 8 columns, which are:
 
 User ID (anonymized)
 
